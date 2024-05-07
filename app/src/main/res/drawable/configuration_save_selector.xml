@@ -1,0 +1,11 @@
+
+
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:drawable="@drawable/configuration_save_pressed"/> <!-- pressed state -->
+
+    <item android:drawable="@drawable/configuration_save_default"/> <!-- default state -->
+
+
+</selector>

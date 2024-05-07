@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#1c1c1c">
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/ad_banner">
+    </com.google.android.gms.ads.AdView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/frame"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp">
+
+        <EditText
+            android:background="@drawable/ediittext_field"
+            android:gravity="center"
+            android:layout_width="190dp"
+            android:layout_height="50dp"
+            android:inputType="numberDecimal"
+            android:hint="Enter Length"
+            android:ems="10"
+            android:id="@+id/stone_length"
+            android:layout_weight="3" />
+
+        <TextView
+            android:paddingTop="8sp"
+            android:paddingLeft="8sp"
+            android:gravity="center_vertical"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_weight="2"
+            android:layout_width="60dp"
+            android:textColor="#fff"
+            android:layout_height="match_parent"
+            android:text="feet"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/frame"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:background="@drawable/ediittext_field"
+            android:gravity="center"
+            android:layout_width="190dp"
+            android:layout_height="50dp"
+            android:inputType="numberDecimal"
+            android:hint="Enter Width"
+            android:id="@+id/stone_width"
+            android:ems="10"
+            android:layout_weight="3" />
+
+        <TextView
+            android:paddingTop="8sp"
+            android:paddingLeft="8sp"
+            android:gravity="center_vertical"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_weight="2"
+            android:layout_width="60dp"
+            android:textColor="#fff"
+            android:layout_height="match_parent"
+            android:text="feet"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/frame">
+
+        <EditText
+            android:id="@+id/stone_height"
+            android:layout_width="190dp"
+            android:layout_height="50dp"
+            android:layout_weight="3"
+            android:background="@drawable/ediittext_field"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Enter Height"
+            android:inputType="numberDecimal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:paddingLeft="8sp"
+            android:paddingTop="8sp"
+            android:text="feet"
+            android:textColor="#fff"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="275dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/frame">
+
+        <CheckBox
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/your_color"
+            android:textColor="#fff"
+            android:id="@+id/checkBox"/>
+
+
+        <EditText
+
+            android:background="@drawable/ediittext_field"
+            android:gravity="center"
+            android:layout_width="190dp"
+            android:layout_height="50dp"
+            android:inputType="numberDecimal"
+            android:hint="Mortar percentage"
+            android:ems="10"
+            android:id="@+id/mortar_percentage"/>
+
+
+        <TextView
+            android:textStyle="bold"
+            android:paddingTop="10sp"
+            android:paddingLeft="10sp"
+            android:gravity="fill_vertical"
+            android:layout_weight="1"
+            android:textColor="#fff"
+            android:layout_width="0dp"
+            android:textSize="22sp"
+            android:layout_height="match_parent"
+            android:text="%"
+            android:id="@+id/textView2" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/frame"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp">
+
+        <Button
+            android:id="@+id/btn_next"
+            android:layout_width="190dp"
+            android:layout_height="50dp"
+            android:textStyle="bold"
+            android:ems="10"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:background="@android:color/transparent"
+            android:text="Next" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:background="#727272" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="58dp"
+            android:layout_height="50dp"
+            android:contentDescription="@string/app_name"
+            android:src="@mipmap/next" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

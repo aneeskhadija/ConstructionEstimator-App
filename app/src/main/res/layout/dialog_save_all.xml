@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="320dp"
+    android:layout_height="wrap_content"
+    android:background="#c2b7b7"
+    >
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="#3b3a3a">
+        <TextView
+            android:layout_marginLeft="20sp"
+            android:gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+
+            android:textStyle="bold"
+
+            android:textSize="21sp"
+            android:textColor="#fff"
+            android:text="Save All Records"
+
+            android:layout_weight="4" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="X"
+
+            android:gravity="center"
+
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:id="@+id/cross"
+            android:layout_weight="1"
+            android:background="#3b3a3a"/>
+
+
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="1sp"
+        android:orientation="horizontal"
+        android:background="#fff"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="195sp"
+        android:background="#1c1c1c"
+        android:orientation="vertical"
+     >
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+        <TextView
+            android:paddingLeft="5sp"
+            android:paddingTop="15sp"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:text="Overall  calculation  results  for  every  module  in  this  session  will  be  saved  automatically  in  its  category.\nThe path is \n\nLocation : \n                deviceStorage / Smart \n                building estimator /all "
+            />
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        >
+        <Button
+
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:layout_margin="5sp"
+            android:textColor="#ffffff"
+
+            android:textSize="17sp"
+
+            android:textAllCaps="false"
+            android:text="OK"
+            android:id="@+id/ok"
+            android:layout_gravity="center"
+
+            android:background="#FF4081"/>
+    </LinearLayout>
+</LinearLayout>

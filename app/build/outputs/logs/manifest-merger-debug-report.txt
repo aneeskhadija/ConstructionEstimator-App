@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anees\.gradle\caches\transforms-3\19888de90db16260f92fd6831d6facba\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\bdb41dcfb78e5c49708f3d5614301276\transformed\design-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\6f39cbbd94333119592e182c67ef2ec1\transformed\appcompat-v7-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\f84fdb6e4f203eb01be0d4fb848e8098\transformed\play-services-ads-11.8.0\AndroidManifest.xml:17:1-25:12
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\Anees\.gradle\caches\transforms-3\7084c7d4831b92e834baf780ffb3eb59\transformed\library-1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bluejamesbond:textjustify-android:2.1.6] C:\Users\Anees\.gradle\caches\transforms-3\682132a9fbd3fecd48df8cd52fc4b43f\transformed\textjustify-android-2.1.6\AndroidManifest.xml:30:1-42:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\017fa79440e9cff49f60c054e3a51a3d\transformed\play-services-gass-11.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\81792e22452eccff09524c642c501230\transformed\support-v4-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\2d986e324d89304554967882de53ed4a\transformed\animated-vector-drawable-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\57588cb691952e1b4f9ce7e7c8d23c45\transformed\support-vector-drawable-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\46608c77a14156afdf3ad6784e1b82ec\transformed\recyclerview-v7-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\60df7c0433dd97db1402b6fd2b3b5e98\transformed\transition-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\e1011aaa53734908f2d2289c57b385fe\transformed\play-services-ads-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\2b4c6480ace726a87dad071648f151c6\transformed\support-media-compat-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\345a06dde35e8b921fa772fbff5805f2\transformed\support-fragment-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\0ac1e05a63c5bdaeff5d5b7993304274\transformed\support-core-utils-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\175739cf2a082da40856c137c19da02e\transformed\support-core-ui-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\a5f25cec59b63604a413448fe188ba3f\transformed\support-compat-27.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\daff94455ef48276694ddf8b2c2b4b01\transformed\play-services-ads-lite-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\5957d0fb46dad826022bb0eab34e92e5\transformed\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\30c41a4575dc9f02caaeb8eb10cadec6\transformed\play-services-gass-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:5:5-82
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:5:22-79
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:6:5-88
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:6:22-85
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:13:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anees\.gradle\caches\transforms-3\19888de90db16260f92fd6831d6facba\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anees\.gradle\caches\transforms-3\19888de90db16260f92fd6831d6facba\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bluejamesbond:textjustify-android:2.1.6] C:\Users\Anees\.gradle\caches\transforms-3\682132a9fbd3fecd48df8cd52fc4b43f\transformed\textjustify-android-2.1.6\AndroidManifest.xml:40:5-20
+MERGED from [com.github.bluejamesbond:textjustify-android:2.1.6] C:\Users\Anees\.gradle\caches\transforms-3\682132a9fbd3fecd48df8cd52fc4b43f\transformed\textjustify-android-2.1.6\AndroidManifest.xml:40:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\017fa79440e9cff49f60c054e3a51a3d\transformed\play-services-gass-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\017fa79440e9cff49f60c054e3a51a3d\transformed\play-services-gass-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\e1011aaa53734908f2d2289c57b385fe\transformed\play-services-ads-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\e1011aaa53734908f2d2289c57b385fe\transformed\play-services-ads-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\daff94455ef48276694ddf8b2c2b4b01\transformed\play-services-ads-lite-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\daff94455ef48276694ddf8b2c2b4b01\transformed\play-services-ads-lite-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\5957d0fb46dad826022bb0eab34e92e5\transformed\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\5957d0fb46dad826022bb0eab34e92e5\transformed\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\30c41a4575dc9f02caaeb8eb10cadec6\transformed\play-services-gass-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\30c41a4575dc9f02caaeb8eb10cadec6\transformed\play-services-gass-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:15:9-36
+	android:allowBackup
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.kingsforth.constructionestimator.Splash
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:label
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:20:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.kingsforth.constructionestimator.MainActivity
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:30:9-40:20
+	android:label
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:32:13-45
+	android:exported
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:31:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:35:13-39:29
+category#android.intent.category.DEFAULT
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:38:27-73
+meta-data#com.google.android.gms.version
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:42:9-44:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:43:13-58
+activity#com.kingsforth.constructionestimator.AboutUS
+ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:46:9-90
+	android:name
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml:46:19-78
+uses-sdk
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anees\.gradle\caches\transforms-3\19888de90db16260f92fd6831d6facba\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anees\.gradle\caches\transforms-3\19888de90db16260f92fd6831d6facba\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\bdb41dcfb78e5c49708f3d5614301276\transformed\design-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\bdb41dcfb78e5c49708f3d5614301276\transformed\design-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\6f39cbbd94333119592e182c67ef2ec1\transformed\appcompat-v7-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\6f39cbbd94333119592e182c67ef2ec1\transformed\appcompat-v7-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\f84fdb6e4f203eb01be0d4fb848e8098\transformed\play-services-ads-11.8.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\f84fdb6e4f203eb01be0d4fb848e8098\transformed\play-services-ads-11.8.0\AndroidManifest.xml:21:5-23:62
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\Anees\.gradle\caches\transforms-3\7084c7d4831b92e834baf780ffb3eb59\transformed\library-1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [me.biubiubiu.justifytext:library:1.1] C:\Users\Anees\.gradle\caches\transforms-3\7084c7d4831b92e834baf780ffb3eb59\transformed\library-1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bluejamesbond:textjustify-android:2.1.6] C:\Users\Anees\.gradle\caches\transforms-3\682132a9fbd3fecd48df8cd52fc4b43f\transformed\textjustify-android-2.1.6\AndroidManifest.xml:36:5-38:41
+MERGED from [com.github.bluejamesbond:textjustify-android:2.1.6] C:\Users\Anees\.gradle\caches\transforms-3\682132a9fbd3fecd48df8cd52fc4b43f\transformed\textjustify-android-2.1.6\AndroidManifest.xml:36:5-38:41
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\017fa79440e9cff49f60c054e3a51a3d\transformed\play-services-gass-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\017fa79440e9cff49f60c054e3a51a3d\transformed\play-services-gass-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\94c04a5a7ac91747b53f46725d8d2d15\transformed\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\81792e22452eccff09524c642c501230\transformed\support-v4-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\81792e22452eccff09524c642c501230\transformed\support-v4-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\2d986e324d89304554967882de53ed4a\transformed\animated-vector-drawable-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\2d986e324d89304554967882de53ed4a\transformed\animated-vector-drawable-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\57588cb691952e1b4f9ce7e7c8d23c45\transformed\support-vector-drawable-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\57588cb691952e1b4f9ce7e7c8d23c45\transformed\support-vector-drawable-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\46608c77a14156afdf3ad6784e1b82ec\transformed\recyclerview-v7-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\46608c77a14156afdf3ad6784e1b82ec\transformed\recyclerview-v7-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\60df7c0433dd97db1402b6fd2b3b5e98\transformed\transition-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\60df7c0433dd97db1402b6fd2b3b5e98\transformed\transition-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\e1011aaa53734908f2d2289c57b385fe\transformed\play-services-ads-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\e1011aaa53734908f2d2289c57b385fe\transformed\play-services-ads-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\2b4c6480ace726a87dad071648f151c6\transformed\support-media-compat-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\2b4c6480ace726a87dad071648f151c6\transformed\support-media-compat-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\345a06dde35e8b921fa772fbff5805f2\transformed\support-fragment-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\345a06dde35e8b921fa772fbff5805f2\transformed\support-fragment-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\0ac1e05a63c5bdaeff5d5b7993304274\transformed\support-core-utils-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\0ac1e05a63c5bdaeff5d5b7993304274\transformed\support-core-utils-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\175739cf2a082da40856c137c19da02e\transformed\support-core-ui-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\175739cf2a082da40856c137c19da02e\transformed\support-core-ui-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\a5f25cec59b63604a413448fe188ba3f\transformed\support-compat-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Anees\.gradle\caches\transforms-3\a5f25cec59b63604a413448fe188ba3f\transformed\support-compat-27.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\daff94455ef48276694ddf8b2c2b4b01\transformed\play-services-ads-lite-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\daff94455ef48276694ddf8b2c2b4b01\transformed\play-services-ads-lite-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\5957d0fb46dad826022bb0eab34e92e5\transformed\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\5957d0fb46dad826022bb0eab34e92e5\transformed\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\30c41a4575dc9f02caaeb8eb10cadec6\transformed\play-services-gass-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\30c41a4575dc9f02caaeb8eb10cadec6\transformed\play-services-gass-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\f84fdb6e4f203eb01be0d4fb848e8098\transformed\play-services-ads-11.8.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		ADDED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Soft_Tech\ConstructionEstimator\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Anees\.gradle\caches\transforms-3\201c1caac2d0925566a5b1cdfb02612f\transformed\play-services-ads-lite-11.8.0\AndroidManifest.xml:30:13-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Anees\.gradle\caches\transforms-3\3c14cc2821ea56acd0284dadb226103d\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58

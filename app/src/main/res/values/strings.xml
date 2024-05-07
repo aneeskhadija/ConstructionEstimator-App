@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CCE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ad_interstitial">ca-app-pub-3940256099942544</string>
+    <string name="ad_banner">ca-app-pub-3940256099942544</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_column_circular_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\column_circular_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stone_result_for_no_percentage.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stone_result_for_no_percentage.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_beam.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\dialog_beam.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_slab_brick_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\slab_brick_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_seam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\seam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_excuvation_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\excuvation_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_noncircular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\noncircular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_column.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\column.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_floor_selection.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\floor_selection.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_noncircular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\noncircular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_nav.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\nav.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_stair.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\stair.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_beam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\beam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_sub_structure.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\sub_structure.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_foundation.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\dialog_foundation.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_frame.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_walls_brick_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\walls_brick_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_simple.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\simple.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_next.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_configuration_save_pressed.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\configuration_save_pressed.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_slab_rcc_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\slab_rcc_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_seam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\seam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_floor_simple_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\floor_simple_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_chips_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\chips_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_configuration_save_selector.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\configuration_save_selector.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_footing.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\footing.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_sub_structure.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\sub_structure.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_marble_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\marble_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_slab.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\slab.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_select_column.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\dialog_select_column.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_stair.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\stair.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_next.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_work.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\work.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_non_rcc_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\non_rcc_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_column.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\column.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_non_circular_brick_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\non_circular_brick_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_plaster.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\plaster.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_floor.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\floor.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stone_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stone_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_non_circular_brick_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\non_circular_brick_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_marble.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\marble.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_beam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\beam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_marble_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\marble_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_excuvation_result_a.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\excuvation_result_a.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stairs_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stairs_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_simple.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\simple.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_setting.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_walls.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\walls.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_action_share.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\ic_action_share.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_next.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_chips_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\chips_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_iconsmart.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\iconsmart.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_circular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\circular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_splash.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\splash.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_super_structure.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\super_structure.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_seam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\seam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stone_result_for_percentage_two.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stone_result_for_percentage_two.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_cement.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\cement.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_select_walls.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\dialog_select_walls.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_making.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\making.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_exit_dialog_exit_selector.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\exit_dialog_exit_selector.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_three_quality.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\three_quality.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_walls.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\walls.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_column_non_circular_selection.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\column_non_circular_selection.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_beam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\beam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_plaster.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\plaster.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_chips.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\chips.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_noncircular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\noncircular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_slab.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\slab.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_simple.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\simple.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stone_result_for_percentage_three.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stone_result_for_percentage_three.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_reset.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stone_brick_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stone_brick_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_item_row.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\listview_item_row.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_plaster.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\plaster.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_next.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_stair.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\stair.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_save_all.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\dialog_save_all.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_cement.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\cement.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_save_btn.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\save_btn.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_column.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\column.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_column.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\column.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_floor.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\floor.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_ediittext_field.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\ediittext_field.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_stair.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\stair.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_pile_non_circular_selection.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\pile_non_circular_selection.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_floor_simple_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\floor_simple_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_exit_dialog_exit_button_pressed.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\exit_dialog_exit_button_pressed.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_configuration_save_default.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\configuration_save_default.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_slab_rcc_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\slab_rcc_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_about.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_foundation.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\foundation.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_plaster.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\plaster.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_non_cement_block_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\non_cement_block_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_noncircular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\noncircular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_two_quality.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\two_quality.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_cement.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\cement.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_simple.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\simple.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_simple.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\simple.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_walls.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\walls.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_beam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\beam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_slab.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\slab.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_plaster_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\plaster_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_floor.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\floor.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_slab_brick_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\slab_brick_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_structure.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\structure.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_about_us.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_non_rcc_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\non_rcc_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_cement_block_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\cement_block_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_circular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\circular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_noncircular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\noncircular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_walls_brick_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\walls_brick_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_column.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\column.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_slab.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\slab.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_exit_dialog.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_circular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\circular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_excuvation_result_b.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\excuvation_result_b.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_three_and_two_quality.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\three_and_two_quality.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_walls.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\walls.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_seam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\seam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_beam_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\beam_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_exit_dialog_exit_button_default.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\exit_dialog_exit_button_default.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_beam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\beam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_configuration_setting.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\configuration_setting.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_dialog_exit_layout.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\dialog_exit_layout.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_beam_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\beam_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_simple.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\simple.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_walls.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\walls.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_slab.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\slab.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_cement_block_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\cement_block_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stone_brick_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stone_brick_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_splash.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_circular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\circular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_excavation.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\excavation.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_txt_dialog.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\txt_dialog.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_floor.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\floor.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_next.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_stairs_enter_values.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\stairs_enter_values.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_simple_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\simple_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_plaster.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\plaster.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable_floor.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable\\floor.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_select_structure.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\select_structure.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_floor.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\floor.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_circular_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\circular_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_stair.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\stair.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\layout_plaster_result.xml.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\layout\\plaster_result.xml"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_circular.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\circular.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_seam.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-hdpi\\seam.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_cement.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-xxxhdpi\\cement.png"
+    },
+    {
+        "merged": "D:\\Soft_Tech\\ConstructionEstimator\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_cement.png.flat",
+        "source": "D:\\Soft_Tech\\ConstructionEstimator\\app\\src\\main\\res\\mipmap-mdpi\\cement.png"
+    }
+]
